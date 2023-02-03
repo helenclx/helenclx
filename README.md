@@ -1,8 +1,12 @@
 Hello, my name is Helen. Welcome to my GitHub profile!
 
-I had 8 years of working experience as a graphic designer. However, now I am aspiring to be a developer.
+I am a self-taught web developer with 8 years of working experience as a graphic designer.
 
-Currently, I am learning web development. I can write HTML, CSS and JavaScript.
+Currently, I am specialising in front-end web development. I can write HTML, CSS and JavaScript.
+
+### My Developer Portfolio
+
+- [View here](https://helenclx.github.io/)
 
 ### My Certificates
 
@@ -12,3 +16,4 @@ Currently, I am learning web development. I can write HTML, CSS and JavaScript.
 
 - [Twitter](https://twitter.com/helen_clx)
 - [Mastodon](https://tech.lgbt/@helenclx)
+- [LinkedIn](https://www.linkedin.com/in/helenclx/)
