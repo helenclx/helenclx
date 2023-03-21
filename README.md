@@ -11,6 +11,7 @@ I specialise in front-end web development. I can write HTML, CSS and JavaScript.
 ### My Certificates
 
 - freeCodeCamp's [Responsive Web Design Certification](https://www.freecodecamp.org/certification/helenclx/responsive-web-design)
+- freeCodeCamp's [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/certification/helenclx/javascript-algorithms-and-data-structures)
 
 ### My Socials
 
