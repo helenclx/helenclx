@@ -2,7 +2,7 @@ Hello, my name is Helen. Welcome to my GitHub profile!
 
 I am a self-taught web developer with 8 years of working experience as a graphic designer.
 
-I specialise in front-end web development. I can write HTML, CSS and JavaScript. Currently I am learning C and taking the [CS50’s Introduction to Computer Science 2023](https://cs50.harvard.edu/x/2023/) course.
+I specialise in front-end web development.
 
 ### My Developer Portfolio
 
