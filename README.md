@@ -4,9 +4,10 @@ I am a self-taught web developer with 8 years of working experience as a graphic
 
 I specialise in front-end web development.
 
-### My Developer Portfolio
+### My Links
 
-- [View here](https://helenclx.github.io/)
+- [My developer portfolio](https://helenclx.github.io/)
+- [Helen Codes](https://helenclx.github.io/helencodes/): My tech and coding blog
 
 ### My Certificates
 
