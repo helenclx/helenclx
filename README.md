@@ -7,7 +7,7 @@ I specialise in front-end web development.
 ### My Links
 
 - [My developer portfolio](https://helenclx.github.io/)
-- [Helen Codes](https://helenclx.github.io/helencodes/): My tech and coding blog
+- [Helen Codes](https://helenclx.github.io/blog/): My tech and coding blog
 
 ### My Certificates
 
