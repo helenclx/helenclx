@@ -8,6 +8,7 @@ I specialise in front-end web development.
 
 - [My developer portfolio](https://helenclx.github.io/)
 - [Helen Codes](https://helenclx.github.io/blog/): My tech and coding blog
+- [My freeCodeCamp profile](https://www.freecodecamp.org/helenclx): I am a supporter of freeCodeCamp
 
 ### My Certificates
 
