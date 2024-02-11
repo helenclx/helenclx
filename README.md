@@ -19,5 +19,6 @@ I specialise in front-end web development.
 ### My Socials
 
 - [Twitter](https://twitter.com/helen_clx)
+- [Bluesky](https://bsky.app/profile/helenclx.bsky.social)
 - [Mastodon](https://tech.lgbt/@helenclx)
 - [LinkedIn](https://www.linkedin.com/in/helenclx/)
