@@ -14,6 +14,7 @@ I am a self-taught web developer with 8 years of working experience as a graphic
 - [My developer portfolio](https://helenclx.github.io/)
 - [Helen Codes](https://helenclx.github.io/blog/): My tech and coding blog
 - [My freeCodeCamp profile](https://www.freecodecamp.org/helenclx): I am a supporter of freeCodeCamp
+- [My Frontend Mentor profile](https://www.frontendmentor.io/profile/helenclx)
 
 ## My Certificates
 - freeCodeCamp's [Responsive Web Design Certification](https://www.freecodecamp.org/certification/helenclx/responsive-web-design)
