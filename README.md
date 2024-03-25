@@ -2,7 +2,7 @@
 
 I am a self-taught web developer with 8 years of working experience as a graphic designer. I specialise in front-end web development.
 
-👨‍💻 All of my projects are available at [https://helenclx.github.io/](https://helenclx.github.io/)
+👨‍💻 My developer portfolio is available at https://helenclx.github.io/
 
 📫 How to reach me: **helenclx@outlook.com**
 
