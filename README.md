@@ -4,7 +4,7 @@ Hi 👋 My name is Helen Chong
 Frontend Web Developer
 ----------------------
 
-I am a self-taught web developer with 8 years of working experience as a graphic designer. I specialise in front-end web development.
+I am an aspiring web developer with 8 years of working experience as a graphic designer. I specialise in front-end web development.
 
 * 🌍 I'm based in Malaysia
 * 🖥️ See my portfolio at [https://helenclx.github.io/](http://helenclx.github.io/)
