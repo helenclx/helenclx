@@ -8,14 +8,13 @@ I am an aspiring web developer with 8 years of working experience as a graphic d
 
 * 🌍 I'm based in Malaysia
 * 🖥️ See my portfolio at [https://helenclx.github.io/](http://helenclx.github.io/)
-* ✉️ You can contact me at [helenclx@outlook.com](mailto:helenclx@outlook.com)
-* ⚡ I love gaming, reading, drawing and crocheting.
+* ✍️ Read my blog at [Helen Codes](https://helenclx.github.io/blog)
+* ✉️ You can contact me with e-mail to [helenclx@outlook.com](mailto:helenclx@outlook.com)
+* ⚡ I love gaming, reading, drawing and crocheting
 
 ---
 
-## My Links
-- [My developer portfolio](https://helenclx.github.io/)
-- [Helen Codes](https://helenclx.github.io/blog/): My tech and coding blog
+## My Website Profiles
 - [My freeCodeCamp profile](https://www.freecodecamp.org/helenclx): I am a supporter of freeCodeCamp
 - [My Frontend Mentor profile](https://www.frontendmentor.io/profile/helenclx)
 
@@ -26,7 +25,6 @@ I am an aspiring web developer with 8 years of working experience as a graphic d
 - Chingu Voyage #46 [Certificate of Completion](https://helenclx.github.io/assets/documents/Chingu-Voyage46-Completion-Cert.pdf)
 
 ### My Socials
-
 - [Twitter](https://twitter.com/helen_clx)
 - [Bluesky](https://bsky.app/profile/helenclx.bsky.social)
 - [Mastodon](https://tech.lgbt/@helenclx)
