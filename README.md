@@ -7,10 +7,11 @@ Frontend Web Developer
 I am an aspiring web developer with 8 years of working experience as a graphic designer. I specialise in front-end web development.
 
 * 🌍 I'm based in Malaysia
-* 🖥️ See my portfolio at [https://helenclx.github.io/](http://helenclx.github.io/)
+* 🖥️ See my portfolio at [helenclx.github.io](http://helenclx.github.io/)
 * ✍️ Read my blog at [Helen Codes](https://helenclx.github.io/blog)
+* 💡 Learn about what I'm doing and focusing at the moment at my [now page](http://helenclx.github.io/now)
 * ✉️ You can contact me with e-mail to [helenclx@outlook.com](mailto:helenclx@outlook.com)
-* ⚡ I love gaming, reading, drawing and crocheting
+* 💜 I love gaming, reading, drawing and crocheting
 
 ---
 
