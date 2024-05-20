@@ -1,14 +1,12 @@
-Hi 👋 My name is Helen Chong
-============================
+# Hi 👋 My name is Helen Chong
 
-Frontend Web Developer
-----------------------
+## Frontend Web Developer
 
 I am an aspiring web developer with 8 years of working experience as a graphic designer. I specialise in front-end web development.
 
 * 🌍 I'm based in Malaysia
-* 🖥️ See my portfolio at [helenclx.github.io](http://helenclx.github.io/)
-* ✍️ Read my blog at [Helen Codes](https://helenclx.github.io/blog)
+* 🖥️ See my developer portfolio at [helenclx.github.io](http://helenclx.github.io/)
+* ✍️ Read my developer blog at [Helen Codes](https://helenclx.github.io/blog)
 * 💡 Learn about what I'm doing and focusing at the moment at my [now page](http://helenclx.github.io/now)
 * ✉️ You can contact me with e-mail to [helenclx@outlook.com](mailto:helenclx@outlook.com)
 * 💜 I love gaming, reading, drawing and crocheting
@@ -18,12 +16,6 @@ I am an aspiring web developer with 8 years of working experience as a graphic d
 ## My Website Profiles
 - [My freeCodeCamp profile](https://www.freecodecamp.org/helenclx): I am a supporter of freeCodeCamp
 - [My Frontend Mentor profile](https://www.frontendmentor.io/profile/helenclx)
-
-## My Certificates
-- freeCodeCamp's [Responsive Web Design Certification](https://www.freecodecamp.org/certification/helenclx/responsive-web-design)
-- freeCodeCamp's [JavaScript Algorithms and Data Structures (Beta) Certification](https://www.freecodecamp.org/certification/helenclx/javascript-algorithms-and-data-structures-v8)
-- freeCodeCamp's [Legacy JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/certification/helenclx/javascript-algorithms-and-data-structures)
-- Chingu Voyage #46 [Certificate of Completion](https://helenclx.github.io/assets/documents/Chingu-Voyage46-Completion-Cert.pdf)
 
 ### My Socials
 - [Twitter](https://twitter.com/helen_clx)
