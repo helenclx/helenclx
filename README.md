@@ -5,10 +5,10 @@
 I am an aspiring web developer with 8 years of working experience as a graphic designer. I specialise in front-end web development.
 
 * 🌍 I am based in Malaysia
-* 🖥️ View my developer portfolio at [helenclx.github.io](http://helenclx.github.io/)
-* ✍️ Read my developer blog at [Helen Codes](https://helenclx.github.io/blog)
-* 💡 Learn about what I am doing and focusing at the moment at my [now page](http://helenclx.github.io/now)
-* ✉️ You can contact me with e-mail to [helenclx@outlook.com](mailto:helenclx@outlook.com)
+* 🖥️ View my developer portfolio at [helenchong.dev](https://helenchong.dev/)
+* ✍️ Read my developer blog at [Helen Codes](https://helenchong.dev/blog)
+* 💡 Learn about what I am doing and focusing at the moment at my [now page](https://helenchong.dev/now)
+* ✉️ You can contact me with e-mail to [contact@helenchong.dev](mailto:contact@helenchong.dev)
 * 💜 I love gaming, reading, drawing and crocheting
 
 ---
