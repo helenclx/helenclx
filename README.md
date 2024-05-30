@@ -19,7 +19,7 @@ I am an aspiring web developer with 8 years of working experience as a graphic d
 
 ### My Socials
 - [Twitter](https://twitter.com/helen_clx)
-- [Bluesky](https://bsky.app/profile/helenclx.bsky.social)
+- [Bluesky](https://bsky.app/profile/helenchong.dev)
 - [Mastodon](https://tech.lgbt/@helenclx)
 - [LinkedIn](https://www.linkedin.com/in/helenclx/)
 
