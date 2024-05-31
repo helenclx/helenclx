@@ -13,9 +13,10 @@ I am an aspiring web developer with 8 years of working experience as a graphic d
 
 ---
 
-## My Website Profiles
+## My Profiles
 - [My freeCodeCamp profile](https://www.freecodecamp.org/helenclx): I am a supporter of freeCodeCamp
 - [My Frontend Mentor profile](https://www.frontendmentor.io/profile/helenclx)
+- [My Eleventy Author profile](https://www.11ty.dev/authors/helenclx/)
 
 ### My Socials
 - [Twitter](https://twitter.com/helen_clx)
