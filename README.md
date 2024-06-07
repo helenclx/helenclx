@@ -6,7 +6,7 @@ I am an aspiring web developer with 8 years of working experience as a graphic d
 
 * 🌍 I am based in Malaysia
 * 🖥️ View my developer portfolio at [helenchong.dev](https://helenchong.dev/)
-* ✍️ Read my developer blog at [Helen Codes](https://helenchong.dev/blog)
+* ✍️ Read my developer blog at [helenchong.dev/blog](https://helenchong.dev/blog)
 * 💡 Learn about what I am doing and focusing at the moment at my [now page](https://helenchong.dev/now)
 * ✉️ You can contact me via e-mail at [contact@helenchong.dev](mailto:contact@helenchong.dev)
 * 💜 I love gaming, reading, drawing and crocheting
