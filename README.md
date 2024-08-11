@@ -5,7 +5,7 @@
 I am a web developer with 8 years of working experience as a graphic designer. I specialise in front-end web development.
 
 * 🌍 I am based in Malaysia
-* 🖥️ Check out my developer portfolio at [helenchong.dev](https://helenchong.dev/)
+* 🖥️ Check out my developer portfolio and website at [helenchong.dev](https://helenchong.dev/)
 * ✍️ Read my developer blog at [helenchong.dev/blog](https://helenchong.dev/blog)
 * 📄 View my résumé at [helenchong.dev/resume](https://helenchong.dev/resume)
 * 💡 Learn about what I am currently doing and focusing at my [now page](https://helenchong.dev/now)
