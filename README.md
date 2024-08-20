@@ -2,7 +2,7 @@
 
 ## Web Developer
 
-I am a web developer with 8 years of working experience as a graphic designer. I specialise in front-end web development.
+I am a web developer with 8 years of working experience as a graphic designer.
 
 * 🌍 I am based in Malaysia
 * 🖥️ Check out my developer portfolio and website at [helenchong.dev](https://helenchong.dev/)
