@@ -2,7 +2,7 @@
 
 ## Web Developer
 
-I am a web developer with 8 years of working experience as a graphic designer.
+I am a web developer with 8 years of working experience as a graphic designer. WordPress developer by day, Eleventy developer by night.
 
 * 🌍 I am based in Malaysia
 * 🖥️ Check out my developer portfolio and website at [helenchong.dev](https://helenchong.dev/)
