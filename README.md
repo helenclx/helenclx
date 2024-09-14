@@ -24,6 +24,9 @@ I am a web developer with 8 years of working experience as a graphic designer. W
 - [LinkedIn](https://www.linkedin.com/in/helenclx/)
 - [Bluesky](https://bsky.app/profile/helenchong.dev)
 
+### Support My Work
+<a href="https://buymeacoffee.com/helenchong"><img src="buymeacoffee.png" alt="Buy Me a Coffee" width="200" height="59"></a>
+
 ---
 
 ## My GitHub Stats
