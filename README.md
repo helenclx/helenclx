@@ -8,13 +8,14 @@ I am a web developer with 8 years of working experience as a graphic designer. W
 * 🖥️ Check out my developer portfolio and website at [helenchong.dev](https://helenchong.dev/)
 * ✍️ Read my developer blog at [helenchong.dev/blog](https://helenchong.dev/blog)
 * 📄 View my résumé at [helenchong.dev/resume](https://helenchong.dev/resume)
-* 💡 Learn about what I am currently doing and focusing at my [now page](https://helenchong.dev/now)
+* 💡 Learn about what I am currently doing and focusing at my [now page](https://helenchong.omg.lol/now)
 * ✉️ You can contact me via e-mail at [contact@helenchong.dev](mailto:contact@helenchong.dev)
 * 💜 I love gaming, reading, drawing and crocheting
 
 ---
 
 ## My Profiles
+- [omg.lol](https://helenchong.omg.lol/)
 - [freeCodeCamp](https://www.freecodecamp.org/helenclx)
 - [Frontend Mentor](https://www.frontendmentor.io/profile/helenclx)
 - [Eleventy Author](https://www.11ty.dev/authors/helenclx/)
