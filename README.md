@@ -23,9 +23,8 @@ I am a web developer with 8 years of working experience as a graphic designer. W
 ### My Socials
 - [Mastodon](https://tech.lgbt/@helenclx)
 - [LinkedIn](https://www.linkedin.com/in/helenclx/)
-- [Bluesky](https://bsky.app/profile/helenchong.dev)
 
-### Support My Work
+### Tip Jar
 <a href="https://buymeacoffee.com/helenchong"><img src="buymeacoffee.png" alt="Buy Me a Coffee" width="200" height="59"></a>
 
 ---
