@@ -22,6 +22,7 @@ I am a web developer with 8 years of working experience as a graphic designer. W
 
 ### My Socials
 - [Mastodon](https://tech.lgbt/@helenclx)
+- [Bluesky](https://bsky.app/profile/helenchong.omg.lol)
 - [LinkedIn](https://www.linkedin.com/in/helenclx/)
 
 ### Tip Jar
