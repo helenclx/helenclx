@@ -21,7 +21,7 @@ I am a web developer with 8 years of working experience as a graphic designer. W
 - [Eleventy Author](https://www.11ty.dev/authors/helenclx/)
 
 ### My Socials
-- [Mastodon](https://tech.lgbt/@helenclx)
+- [Mastodon](https://social.lol/@helenchong)
 - [Bluesky](https://bsky.app/profile/helenchong.omg.lol)
 - [LinkedIn](https://www.linkedin.com/in/helenclx/)
 
