@@ -16,6 +16,7 @@ I am a web developer with 8 years of working experience as a graphic designer. W
 
 ## My Profiles
 - [omg.lol](https://helenchong.omg.lol/)
+- [CodePen](https://codepen.io/helenclx/)
 - [freeCodeCamp](https://www.freecodecamp.org/helenclx)
 - [Frontend Mentor](https://www.frontendmentor.io/profile/helenclx)
 - [Eleventy Author](https://www.11ty.dev/authors/helenclx/)
