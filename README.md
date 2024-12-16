@@ -2,19 +2,21 @@
 
 ## Web Developer
 
-I am a web developer with 8 years of working experience as a graphic designer. WordPress developer by day, Eleventy developer by night.
+I am a web developer with 8 years of working experience as a graphic designer.
+
+I focus on accessibility, inclusive design and progressive enhancement to create a user experience that puts people first.
 
 * 🌍 I am based in Malaysia
-* 🖥️ Check out my developer portfolio and website at [helenchong.dev](https://helenchong.dev/)
+* 🖥️ Check out my developer website and portfolio at [helenchong.dev](https://helenchong.dev/)
 * ✍️ Read my developer blog at [helenchong.dev/blog](https://helenchong.dev/blog)
 * 📄 View my résumé at [helenchong.dev/resume](https://helenchong.dev/resume)
 * 💡 Learn about what I am currently doing and focusing at my [now page](https://helenchong.omg.lol/now)
-* ✉️ You can contact me via e-mail at [contact@helenchong.dev](mailto:contact@helenchong.dev)
+* ✉️ You can contact me via e-mail at `contact [at] helenchong.dev`
 * 💜 I love gaming, reading, drawing and crocheting
 
 ---
 
-## My Profiles
+## My Web Profiles
 - [omg.lol](https://helenchong.omg.lol/)
 - [CodePen](https://codepen.io/helenclx/)
 - [freeCodeCamp](https://www.freecodecamp.org/helenclx)
