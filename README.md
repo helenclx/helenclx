@@ -16,6 +16,12 @@ I focus on accessibility, inclusive design and progressive enhancement to create
 
 ---
 
+## My Gitea Instance
+
+I am also hosting [my own Gitea instance](https://git.helenchong.dev/) mainly for storing Git repositories of my own websites.
+
+---
+
 ## My Web Profiles
 - [omg.lol](https://helenchong.omg.lol/)
 - [CodePen](https://codepen.io/helenclx/)
