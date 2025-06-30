@@ -11,7 +11,7 @@ I focus on accessibility, inclusive design and progressive enhancement to create
 * ✍️ Read my developer blog at [helenchong.dev/blog](https://helenchong.dev/blog)
 * 📄 View my résumé at [helenchong.dev/resume](https://helenchong.dev/resume)
 * 💡 Learn about what I am currently doing and focusing at my [now page](https://helenchong.omg.lol/now)
-* ✉️ You can contact me via e-mail at `contact [at] helenchong.dev`
+* ✉️ You can contact me via e-mail at `contact [at] helenchong.dev` ([PGP key](https://keys.openpgp.org/search?q=contact%40helenchong.dev))
 * 💜 I love gaming, reading, drawing and crocheting
 
 ---
