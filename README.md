@@ -16,9 +16,11 @@ I focus on accessibility, inclusive design and progressive enhancement to create
 
 ---
 
-## My Gitea Instance
+## My Repositories on Other Git Hosts
 
-I am also hosting and running [my own Gitea instance](https://git.helenchong.dev/). You can check out [my profile on my Gitea instance](https://git.helenchong.dev/helenchong).
+I host [my own Gitea instance](https://git.helenchong.dev/). You can check out [my profile on my Gitea instance](https://git.helenchong.dev/helenchong).
+
+Repositories of my personal repositories are also pushed to Codeberg. You can check out [my Codeberg profile](https://codeberg.org/helenchong).
 
 ---
 
