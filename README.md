@@ -38,11 +38,3 @@ Repositories of my personal repositories are also pushed to Codeberg. You can ch
 
 ### Tip Jar
 <a href="https://buymeacoffee.com/helenchong"><img src="buymeacoffee.png" alt="Buy Me a Coffee" width="200" height="59"></a>
-
----
-
-## My GitHub Stats
-
-<a href="http://www.github.com/helenclx"><img src="https://github-readme-stats.vercel.app/api?username=helenclx&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="helenclx's GitHub stats" /></a>
-
-<a href="https://github.com/helenclx" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helenclx&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
