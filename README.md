@@ -20,7 +20,7 @@ I focus on accessibility, inclusive design and progressive enhancement to create
 
 I host [my own Gitea instance](https://git.helenchong.dev/). You can check out [my profile on my Gitea instance](https://git.helenchong.dev/helenchong).
 
-Repositories of my personal repositories are also pushed to Codeberg. You can check out [my Codeberg profile](https://codeberg.org/helenchong).
+My personal repositories are also pushed to SourceTube and Codeberg. You can check out my profiles on [SourceTube](https://source.tube/helenchong) and [Codeberg](https://codeberg.org/helenchong).
 
 ---
 
